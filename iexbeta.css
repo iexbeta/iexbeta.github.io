@@ -1,0 +1,23 @@
+.align			{ vertical-align: bottom }
+.button			{ cursor: hand }
+.link			{ color: #0066cc; text-decoration: underline }
+.link:hover		{ color: #ff3300; text-decoration: underline }
+
+.iexbar			{ background-color: #6699cc }
+.iexbar-content		{ background-color: #f1f1f1; border: #6699cc 1px solid; padding: 5px }
+.iexbar-font		{ color: #ffffff; font-family: Tahoma; font-size: 85%; font-weight: bold; text-decoration: none }
+.iexbar-frameborder	{ border: #6699cc 1px solid }
+.iexbar-framecontent	{ background-color: #f1f1f1; padding: 5px }
+.iexbar-image		{ background-color: #cccccc; padding: 2px }
+
+.iexmenu		{ border: #6699cc 1px solid; display: none; position: absolute }
+.iexmenu-content	{ background-color: #f1f1f1; padding: 5px }
+.iexmenu-font		{ color: #0066cc; font-family: Tahoma; font-size: 80%; text-decoration: underline }
+.iexmenu-font:hover	{ color: #ff3300; font-family: Tahoma; font-size: 80%; text-decoration: underline }
+
+.font-item		{ color: #003399; font-family: Tahoma; font-size: 80%; font-weight: bold; text-decoration: none }
+.font-small		{ color: #003399; font-family: Tahoma; font-size: 70%; text-decoration: none }
+.font-medium		{ color: #003399; font-family: Tahoma; font-size: 80%; text-decoration: none }
+.font-large		{ color: #003399; font-family: Tahoma; font-size: 120%; font-weight: bold; text-decoration: none }
+
+.center { margin-left: auto; margin-right: auto; }
